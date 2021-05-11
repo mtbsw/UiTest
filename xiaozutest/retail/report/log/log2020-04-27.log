@@ -1,0 +1,250 @@
+2020-04-27 16:20:56,477-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects\xiaozutest] succeed! 
+2020-04-27 16:20:56,629-readexcel.py:[19]-[INFO]-reading home_elementsInfo failed 
+2020-04-27 16:20:56,630-readexcel.py:[28]-[INFO]-read value 1,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:20:56,630-readexcel.py:[28]-[INFO]-read value 1,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:20:56,630-readexcel.py:[28]-[INFO]-read value 2,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:20:56,630-readexcel.py:[28]-[INFO]-read value 2,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:20:56,630-readexcel.py:[28]-[INFO]-read value 3,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:20:56,630-readexcel.py:[28]-[INFO]-read value 3,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:20:56,630-readexcel.py:[28]-[INFO]-read value 4,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:20:56,630-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:20:56,630-readexcel.py:[28]-[INFO]-read value 5,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:20:56,631-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:20:56,631-readexcel.py:[28]-[INFO]-read value 6,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:20:56,631-readexcel.py:[28]-[INFO]-read value 6,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:20:56,631-readexcel.py:[28]-[INFO]-read value 7,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:20:56,631-readexcel.py:[28]-[INFO]-read value 7,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:20:56,631-readexcel.py:[28]-[INFO]-read value 8,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:20:56,631-readexcel.py:[28]-[INFO]-read value 8,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:20:56,631-readexcel.py:[28]-[INFO]-read value 9,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:20:56,631-readexcel.py:[28]-[INFO]-read value 9,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:20:56,631-readexcel.py:[28]-[INFO]-read value 10,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:20:56,631-readexcel.py:[28]-[INFO]-read value 10,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:20:56,631-readexcel.py:[28]-[INFO]-read value 11,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:20:56,632-readexcel.py:[28]-[INFO]-read value 11,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:21:23,558-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects\xiaozutest] succeed! 
+2020-04-27 16:21:23,668-readexcel.py:[19]-[INFO]-reading home_elementsInfo failed 
+2020-04-27 16:21:23,668-readexcel.py:[28]-[INFO]-read value 1,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:21:23,668-readexcel.py:[28]-[INFO]-read value 1,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:21:23,668-readexcel.py:[28]-[INFO]-read value 2,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:21:23,668-readexcel.py:[28]-[INFO]-read value 2,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:21:23,668-readexcel.py:[28]-[INFO]-read value 3,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:21:23,668-readexcel.py:[28]-[INFO]-read value 3,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:21:23,668-readexcel.py:[28]-[INFO]-read value 4,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:21:23,668-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:21:23,668-readexcel.py:[28]-[INFO]-read value 5,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:21:23,668-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:21:23,668-readexcel.py:[28]-[INFO]-read value 6,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:21:23,668-readexcel.py:[28]-[INFO]-read value 6,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:21:23,668-readexcel.py:[28]-[INFO]-read value 7,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:21:23,668-readexcel.py:[28]-[INFO]-read value 7,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:21:23,668-readexcel.py:[28]-[INFO]-read value 8,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:21:23,668-readexcel.py:[28]-[INFO]-read value 8,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:21:23,668-readexcel.py:[28]-[INFO]-read value 9,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:21:23,668-readexcel.py:[28]-[INFO]-read value 9,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:21:23,668-readexcel.py:[28]-[INFO]-read value 10,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:21:23,668-readexcel.py:[28]-[INFO]-read value 10,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:21:23,668-readexcel.py:[28]-[INFO]-read value 11,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:21:23,668-readexcel.py:[28]-[INFO]-read value 11,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:22:24,733-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects\xiaozutest] succeed! 
+2020-04-27 16:22:24,856-readexcel.py:[19]-[INFO]-reading home_elementsInfo failed 
+2020-04-27 16:22:24,856-readexcel.py:[28]-[INFO]-read value 1,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:22:24,856-readexcel.py:[28]-[INFO]-read value 1,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:22:24,856-readexcel.py:[28]-[INFO]-read value 2,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:22:24,856-readexcel.py:[28]-[INFO]-read value 2,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:22:24,856-readexcel.py:[28]-[INFO]-read value 3,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:22:24,856-readexcel.py:[28]-[INFO]-read value 3,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:22:24,856-readexcel.py:[28]-[INFO]-read value 4,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:22:24,856-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:22:24,856-readexcel.py:[28]-[INFO]-read value 5,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:22:24,856-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:22:24,856-readexcel.py:[28]-[INFO]-read value 6,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:22:24,857-readexcel.py:[28]-[INFO]-read value 6,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:22:24,857-readexcel.py:[28]-[INFO]-read value 7,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:22:24,857-readexcel.py:[28]-[INFO]-read value 7,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:22:24,857-readexcel.py:[28]-[INFO]-read value 8,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:22:24,857-readexcel.py:[28]-[INFO]-read value 8,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:22:24,857-readexcel.py:[28]-[INFO]-read value 9,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:22:24,857-readexcel.py:[28]-[INFO]-read value 9,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:22:24,857-readexcel.py:[28]-[INFO]-read value 10,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:22:24,857-readexcel.py:[28]-[INFO]-read value 10,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:22:24,857-readexcel.py:[28]-[INFO]-read value 11,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:22:24,857-readexcel.py:[28]-[INFO]-read value 11,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:23:30,928-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects\xiaozutest] succeed! 
+2020-04-27 16:23:31,034-readexcel.py:[19]-[INFO]-reading home_elementsInfo failed 
+2020-04-27 16:23:31,035-readexcel.py:[28]-[INFO]-read value 1,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:23:31,035-readexcel.py:[28]-[INFO]-read value 1,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:23:31,035-readexcel.py:[28]-[INFO]-read value 2,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:23:31,035-readexcel.py:[28]-[INFO]-read value 2,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:23:31,035-readexcel.py:[28]-[INFO]-read value 3,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:23:31,035-readexcel.py:[28]-[INFO]-read value 3,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:23:31,035-readexcel.py:[28]-[INFO]-read value 4,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:23:31,035-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:23:31,035-readexcel.py:[28]-[INFO]-read value 5,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:23:31,035-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:23:31,035-readexcel.py:[28]-[INFO]-read value 6,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:23:31,035-readexcel.py:[28]-[INFO]-read value 6,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:23:31,035-readexcel.py:[28]-[INFO]-read value 7,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:23:31,035-readexcel.py:[28]-[INFO]-read value 7,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:23:31,035-readexcel.py:[28]-[INFO]-read value 8,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:23:31,035-readexcel.py:[28]-[INFO]-read value 8,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:23:31,035-readexcel.py:[28]-[INFO]-read value 9,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:23:31,035-readexcel.py:[28]-[INFO]-read value 9,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:23:31,036-readexcel.py:[28]-[INFO]-read value 10,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:23:31,036-readexcel.py:[28]-[INFO]-read value 10,3 in sheetName home_elementsInfo succeed
+2020-04-27 16:23:31,036-readexcel.py:[28]-[INFO]-read value 11,2 in sheetName home_elementsInfo succeed
+2020-04-27 16:23:31,036-readexcel.py:[28]-[INFO]-read value 11,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:16,295-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects\xiaozutest] succeed! 
+2020-04-27 17:04:16,401-readexcel.py:[19]-[INFO]-reading home_elementsInfo failed 
+2020-04-27 17:04:16,401-readexcel.py:[28]-[INFO]-read value 1,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:16,401-readexcel.py:[28]-[INFO]-read value 1,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:16,401-readexcel.py:[28]-[INFO]-read value 2,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:16,401-readexcel.py:[28]-[INFO]-read value 2,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:16,401-readexcel.py:[28]-[INFO]-read value 3,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:16,401-readexcel.py:[28]-[INFO]-read value 3,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:16,401-readexcel.py:[28]-[INFO]-read value 4,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:16,401-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:16,401-readexcel.py:[28]-[INFO]-read value 5,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:16,401-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:16,402-readexcel.py:[28]-[INFO]-read value 6,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:16,402-readexcel.py:[28]-[INFO]-read value 6,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:16,402-readexcel.py:[28]-[INFO]-read value 7,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:16,402-readexcel.py:[28]-[INFO]-read value 7,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:16,402-readexcel.py:[28]-[INFO]-read value 8,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:16,402-readexcel.py:[28]-[INFO]-read value 8,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:16,402-readexcel.py:[28]-[INFO]-read value 9,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:16,402-readexcel.py:[28]-[INFO]-read value 9,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:16,402-readexcel.py:[28]-[INFO]-read value 10,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:16,402-readexcel.py:[28]-[INFO]-read value 10,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:16,402-readexcel.py:[28]-[INFO]-read value 11,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:16,402-readexcel.py:[28]-[INFO]-read value 11,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:31,734-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects\xiaozutest] succeed! 
+2020-04-27 17:04:31,827-readexcel.py:[19]-[INFO]-reading home_elementsInfo failed 
+2020-04-27 17:04:31,827-readexcel.py:[28]-[INFO]-read value 1,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:31,827-readexcel.py:[28]-[INFO]-read value 1,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:31,827-readexcel.py:[28]-[INFO]-read value 2,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:31,827-readexcel.py:[28]-[INFO]-read value 2,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:31,827-readexcel.py:[28]-[INFO]-read value 3,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:31,827-readexcel.py:[28]-[INFO]-read value 3,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:31,827-readexcel.py:[28]-[INFO]-read value 4,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:31,827-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:31,827-readexcel.py:[28]-[INFO]-read value 5,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:31,827-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:31,827-readexcel.py:[28]-[INFO]-read value 6,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:31,827-readexcel.py:[28]-[INFO]-read value 6,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:31,827-readexcel.py:[28]-[INFO]-read value 7,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:31,827-readexcel.py:[28]-[INFO]-read value 7,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:31,827-readexcel.py:[28]-[INFO]-read value 8,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:31,827-readexcel.py:[28]-[INFO]-read value 8,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:31,827-readexcel.py:[28]-[INFO]-read value 9,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:31,827-readexcel.py:[28]-[INFO]-read value 9,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:31,827-readexcel.py:[28]-[INFO]-read value 10,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:31,827-readexcel.py:[28]-[INFO]-read value 10,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:31,827-readexcel.py:[28]-[INFO]-read value 11,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:04:31,827-readexcel.py:[28]-[INFO]-read value 11,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:05:48,139-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects\xiaozutest] succeed! 
+2020-04-27 17:05:48,251-readexcel.py:[19]-[INFO]-reading home_elementsInfo failed 
+2020-04-27 17:05:48,251-readexcel.py:[28]-[INFO]-read value 1,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:05:48,251-readexcel.py:[28]-[INFO]-read value 1,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:05:48,251-readexcel.py:[28]-[INFO]-read value 2,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:05:48,251-readexcel.py:[28]-[INFO]-read value 2,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:05:48,251-readexcel.py:[28]-[INFO]-read value 3,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:05:48,251-readexcel.py:[28]-[INFO]-read value 3,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:05:48,251-readexcel.py:[28]-[INFO]-read value 4,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:05:48,251-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:05:48,251-readexcel.py:[28]-[INFO]-read value 5,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:05:48,251-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:05:48,251-readexcel.py:[28]-[INFO]-read value 6,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:05:48,251-readexcel.py:[28]-[INFO]-read value 6,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:05:48,252-readexcel.py:[28]-[INFO]-read value 7,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:05:48,252-readexcel.py:[28]-[INFO]-read value 7,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:05:48,252-readexcel.py:[28]-[INFO]-read value 8,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:05:48,252-readexcel.py:[28]-[INFO]-read value 8,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:05:48,252-readexcel.py:[28]-[INFO]-read value 9,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:05:48,252-readexcel.py:[28]-[INFO]-read value 9,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:05:48,252-readexcel.py:[28]-[INFO]-read value 10,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:05:48,252-readexcel.py:[28]-[INFO]-read value 10,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:05:48,252-readexcel.py:[28]-[INFO]-read value 11,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:05:48,252-readexcel.py:[28]-[INFO]-read value 11,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:06:12,870-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects\xiaozutest] succeed! 
+2020-04-27 17:06:12,971-readexcel.py:[19]-[INFO]-reading home_elementsInfo failed 
+2020-04-27 17:06:12,971-readexcel.py:[28]-[INFO]-read value 1,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:06:12,971-readexcel.py:[28]-[INFO]-read value 1,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:06:12,971-readexcel.py:[28]-[INFO]-read value 2,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:06:12,971-readexcel.py:[28]-[INFO]-read value 2,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:06:12,971-readexcel.py:[28]-[INFO]-read value 3,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:06:12,971-readexcel.py:[28]-[INFO]-read value 3,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:06:12,971-readexcel.py:[28]-[INFO]-read value 4,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:06:12,971-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:06:12,971-readexcel.py:[28]-[INFO]-read value 5,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:06:12,972-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:06:12,972-readexcel.py:[28]-[INFO]-read value 6,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:06:12,972-readexcel.py:[28]-[INFO]-read value 6,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:06:12,972-readexcel.py:[28]-[INFO]-read value 7,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:06:12,972-readexcel.py:[28]-[INFO]-read value 7,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:06:12,972-readexcel.py:[28]-[INFO]-read value 8,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:06:12,972-readexcel.py:[28]-[INFO]-read value 8,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:06:12,972-readexcel.py:[28]-[INFO]-read value 9,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:06:12,972-readexcel.py:[28]-[INFO]-read value 9,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:06:12,972-readexcel.py:[28]-[INFO]-read value 10,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:06:12,972-readexcel.py:[28]-[INFO]-read value 10,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:06:12,972-readexcel.py:[28]-[INFO]-read value 11,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:06:12,972-readexcel.py:[28]-[INFO]-read value 11,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:46,490-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects\xiaozutest] succeed! 
+2020-04-27 17:27:46,638-readexcel.py:[19]-[INFO]-reading home_elementsInfo failed 
+2020-04-27 17:27:46,638-readexcel.py:[28]-[INFO]-read value 1,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:46,639-readexcel.py:[28]-[INFO]-read value 1,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:46,639-readexcel.py:[28]-[INFO]-read value 2,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:46,639-readexcel.py:[28]-[INFO]-read value 2,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:46,640-readexcel.py:[28]-[INFO]-read value 3,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:46,640-readexcel.py:[28]-[INFO]-read value 3,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:46,640-readexcel.py:[28]-[INFO]-read value 4,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:46,640-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:46,640-readexcel.py:[28]-[INFO]-read value 5,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:46,640-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:46,640-readexcel.py:[28]-[INFO]-read value 6,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:46,641-readexcel.py:[28]-[INFO]-read value 6,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:46,641-readexcel.py:[28]-[INFO]-read value 7,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:46,641-readexcel.py:[28]-[INFO]-read value 7,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:46,642-readexcel.py:[28]-[INFO]-read value 8,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:46,642-readexcel.py:[28]-[INFO]-read value 8,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:46,642-readexcel.py:[28]-[INFO]-read value 9,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:46,642-readexcel.py:[28]-[INFO]-read value 9,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:46,642-readexcel.py:[28]-[INFO]-read value 10,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:46,642-readexcel.py:[28]-[INFO]-read value 10,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:46,642-readexcel.py:[28]-[INFO]-read value 11,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:46,642-readexcel.py:[28]-[INFO]-read value 11,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:46,642-testTc.py:[28]-[ERROR]-failed
+Traceback (most recent call last):
+  File "D:/PycharmProjects/xiaozutest/retail/test_case/testTc.py", line 25, in sd2
+    h = 1/add
+ZeroDivisionError: division by zero
+2020-04-27 17:27:54,130-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects\xiaozutest] succeed! 
+2020-04-27 17:27:54,247-readexcel.py:[19]-[INFO]-reading home_elementsInfo failed 
+2020-04-27 17:27:54,248-readexcel.py:[28]-[INFO]-read value 1,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:54,248-readexcel.py:[28]-[INFO]-read value 1,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:54,248-readexcel.py:[28]-[INFO]-read value 2,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:54,248-readexcel.py:[28]-[INFO]-read value 2,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:54,248-readexcel.py:[28]-[INFO]-read value 3,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:54,248-readexcel.py:[28]-[INFO]-read value 3,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:54,249-readexcel.py:[28]-[INFO]-read value 4,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:54,249-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:54,249-readexcel.py:[28]-[INFO]-read value 5,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:54,250-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:54,250-readexcel.py:[28]-[INFO]-read value 6,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:54,250-readexcel.py:[28]-[INFO]-read value 6,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:54,250-readexcel.py:[28]-[INFO]-read value 7,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:54,250-readexcel.py:[28]-[INFO]-read value 7,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:54,250-readexcel.py:[28]-[INFO]-read value 8,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:54,250-readexcel.py:[28]-[INFO]-read value 8,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:54,250-readexcel.py:[28]-[INFO]-read value 9,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:54,250-readexcel.py:[28]-[INFO]-read value 9,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:54,250-readexcel.py:[28]-[INFO]-read value 10,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:54,250-readexcel.py:[28]-[INFO]-read value 10,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:54,250-readexcel.py:[28]-[INFO]-read value 11,2 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:54,250-readexcel.py:[28]-[INFO]-read value 11,3 in sheetName home_elementsInfo succeed
+2020-04-27 17:27:54,250-testTc.py:[28]-[ERROR]-failed
+Traceback (most recent call last):
+  File "D:/PycharmProjects/xiaozutest/retail/test_case/testTc.py", line 25, in sd2
+    h = 1/add
+ZeroDivisionError: division by zero

@@ -1,0 +1,404 @@
+2020-05-01 18:10:28,885-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects\xiaozutest] succeed! 
+2020-05-01 18:10:29,898-readexcel.py:[19]-[INFO]-reading home_page_elements failed 
+2020-05-01 18:10:29,898-readexcel.py:[28]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,898-readexcel.py:[28]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,898-readexcel.py:[28]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,899-readexcel.py:[28]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,899-readexcel.py:[28]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,899-readexcel.py:[28]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,899-readexcel.py:[28]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,899-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,899-readexcel.py:[28]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,899-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,899-readexcel.py:[28]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,899-readexcel.py:[28]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,899-readexcel.py:[28]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,899-readexcel.py:[28]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,900-readexcel.py:[28]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,900-readexcel.py:[28]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,900-readexcel.py:[28]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,900-readexcel.py:[28]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,900-readexcel.py:[28]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,900-readexcel.py:[28]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,900-readexcel.py:[28]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,900-readexcel.py:[28]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,920-readexcel.py:[19]-[INFO]-reading home_page_elements failed 
+2020-05-01 18:10:29,930-readexcel.py:[19]-[INFO]-reading login_page_elements failed 
+2020-05-01 18:10:29,931-readexcel.py:[28]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,931-readexcel.py:[28]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,931-readexcel.py:[28]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,931-readexcel.py:[28]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,931-readexcel.py:[28]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,931-readexcel.py:[28]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,932-readexcel.py:[28]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,932-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,932-readexcel.py:[28]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,932-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,932-readexcel.py:[28]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,932-readexcel.py:[28]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,932-readexcel.py:[28]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,932-readexcel.py:[28]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,932-readexcel.py:[28]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,932-readexcel.py:[28]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,932-readexcel.py:[28]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,932-readexcel.py:[28]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,932-readexcel.py:[28]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,932-readexcel.py:[28]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,932-readexcel.py:[28]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-05-01 18:10:29,933-readexcel.py:[28]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-05-01 18:10:38,994-driver.py:[14]-[INFO]-fireFoxDriver:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="21fa3b9e-ca9e-4880-b1c8-275b90d7b25c")>] succeed !
+2020-05-01 18:10:41,479-base_page.py:[48]-[INFO]-_open open url http://www.baidu.com succeed
+2020-05-01 18:10:41,479-base_page.py:[53]-[INFO]-open url http://www.baidu.com succeed
+2020-05-01 18:10:41,480-base_page.py:[60]-[ERROR]-find element timeout!
+Traceback (most recent call last):
+  File "D:\PycharmProjects\xiaozutest\retail\test_case\page_obj\base_page.py", line 58, in findElement
+    WebDriverWait(self.driver,10).until(EC.visibility_of_element_located(element))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 976, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 372, in execute
+    data = utils.dump_json(params)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\selenium\webdriver\remote\utils.py", line 33, in dump_json
+    return json.dumps(json_struct)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\json\__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\json\encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type BasePage is not JSON serializable
+2020-05-01 18:13:32,135-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects\xiaozutest] succeed! 
+2020-05-01 18:13:32,624-readexcel.py:[19]-[INFO]-reading home_page_elements failed 
+2020-05-01 18:13:32,624-readexcel.py:[28]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,625-readexcel.py:[28]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,625-readexcel.py:[28]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,625-readexcel.py:[28]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,625-readexcel.py:[28]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,625-readexcel.py:[28]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,625-readexcel.py:[28]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,625-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,625-readexcel.py:[28]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,625-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,625-readexcel.py:[28]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,625-readexcel.py:[28]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,625-readexcel.py:[28]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,626-readexcel.py:[28]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,626-readexcel.py:[28]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,626-readexcel.py:[28]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,626-readexcel.py:[28]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,626-readexcel.py:[28]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,626-readexcel.py:[28]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,626-readexcel.py:[28]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,626-readexcel.py:[28]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,626-readexcel.py:[28]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,638-readexcel.py:[19]-[INFO]-reading home_page_elements failed 
+2020-05-01 18:13:32,646-readexcel.py:[19]-[INFO]-reading login_page_elements failed 
+2020-05-01 18:13:32,647-readexcel.py:[28]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,647-readexcel.py:[28]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,647-readexcel.py:[28]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,647-readexcel.py:[28]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,647-readexcel.py:[28]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,647-readexcel.py:[28]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,647-readexcel.py:[28]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,647-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,647-readexcel.py:[28]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,647-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,647-readexcel.py:[28]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,648-readexcel.py:[28]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,648-readexcel.py:[28]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,648-readexcel.py:[28]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,648-readexcel.py:[28]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,648-readexcel.py:[28]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,648-readexcel.py:[28]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,648-readexcel.py:[28]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,648-readexcel.py:[28]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,648-readexcel.py:[28]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,648-readexcel.py:[28]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-05-01 18:13:32,648-readexcel.py:[28]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-05-01 18:13:40,236-driver.py:[14]-[INFO]-fireFoxDriver:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="725e21b6-f6b0-4524-b500-162df8553088")>] succeed !
+2020-05-01 18:13:41,676-base_page.py:[48]-[INFO]-_open open url http://www.baidu.com succeed
+2020-05-01 18:13:41,676-base_page.py:[53]-[INFO]-open url http://www.baidu.com succeed
+2020-05-01 18:13:41,677-base_page.py:[60]-[ERROR]-find element timeout!
+Traceback (most recent call last):
+  File "D:\PycharmProjects\xiaozutest\retail\test_case\page_obj\base_page.py", line 58, in findElement
+    WebDriverWait(self.driver,10).until(EC.visibility_of_element_located(element))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 976, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 372, in execute
+    data = utils.dump_json(params)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\selenium\webdriver\remote\utils.py", line 33, in dump_json
+    return json.dumps(json_struct)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\json\__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\json\encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type BasePage is not JSON serializable
+2020-05-01 18:15:43,043-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects\xiaozutest] succeed! 
+2020-05-01 18:15:43,516-readexcel.py:[19]-[INFO]-reading home_page_elements failed 
+2020-05-01 18:15:43,516-readexcel.py:[28]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,516-readexcel.py:[28]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,517-readexcel.py:[28]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,517-readexcel.py:[28]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,517-readexcel.py:[28]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,517-readexcel.py:[28]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,517-readexcel.py:[28]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,517-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,517-readexcel.py:[28]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,518-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,518-readexcel.py:[28]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,518-readexcel.py:[28]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,518-readexcel.py:[28]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,518-readexcel.py:[28]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,518-readexcel.py:[28]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,518-readexcel.py:[28]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,518-readexcel.py:[28]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,518-readexcel.py:[28]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,518-readexcel.py:[28]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,518-readexcel.py:[28]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,518-readexcel.py:[28]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,518-readexcel.py:[28]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,538-readexcel.py:[19]-[INFO]-reading home_page_elements failed 
+2020-05-01 18:15:43,545-readexcel.py:[19]-[INFO]-reading login_page_elements failed 
+2020-05-01 18:15:43,545-readexcel.py:[28]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,546-readexcel.py:[28]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,546-readexcel.py:[28]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,546-readexcel.py:[28]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,546-readexcel.py:[28]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,546-readexcel.py:[28]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,546-readexcel.py:[28]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,546-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,546-readexcel.py:[28]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,547-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,547-readexcel.py:[28]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,547-readexcel.py:[28]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,547-readexcel.py:[28]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,547-readexcel.py:[28]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,547-readexcel.py:[28]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,547-readexcel.py:[28]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,547-readexcel.py:[28]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,548-readexcel.py:[28]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,548-readexcel.py:[28]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,548-readexcel.py:[28]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,548-readexcel.py:[28]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-05-01 18:15:43,548-readexcel.py:[28]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-05-01 18:15:51,182-driver.py:[14]-[INFO]-fireFoxDriver:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="7a8b1b85-d2d0-4f15-a99f-24ce6f7e105a")>] succeed !
+2020-05-01 18:15:52,719-base_page.py:[48]-[INFO]-_open open url http://www.baidu.com succeed
+2020-05-01 18:15:52,719-base_page.py:[53]-[INFO]-open url http://www.baidu.com succeed
+2020-05-01 18:17:52,122-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects\xiaozutest] succeed! 
+2020-05-01 18:17:52,605-readexcel.py:[19]-[INFO]-reading home_page_elements failed 
+2020-05-01 18:17:52,605-readexcel.py:[28]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,605-readexcel.py:[28]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,605-readexcel.py:[28]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,605-readexcel.py:[28]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,605-readexcel.py:[28]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,605-readexcel.py:[28]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,605-readexcel.py:[28]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,605-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,605-readexcel.py:[28]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,605-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,605-readexcel.py:[28]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,606-readexcel.py:[28]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,606-readexcel.py:[28]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,606-readexcel.py:[28]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,606-readexcel.py:[28]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,606-readexcel.py:[28]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,606-readexcel.py:[28]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,606-readexcel.py:[28]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,607-readexcel.py:[28]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,607-readexcel.py:[28]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,607-readexcel.py:[28]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,608-readexcel.py:[28]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,621-readexcel.py:[19]-[INFO]-reading home_page_elements failed 
+2020-05-01 18:17:52,627-readexcel.py:[19]-[INFO]-reading login_page_elements failed 
+2020-05-01 18:17:52,628-readexcel.py:[28]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,628-readexcel.py:[28]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,628-readexcel.py:[28]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,628-readexcel.py:[28]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,628-readexcel.py:[28]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,628-readexcel.py:[28]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,628-readexcel.py:[28]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,628-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,628-readexcel.py:[28]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,628-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,628-readexcel.py:[28]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,629-readexcel.py:[28]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,629-readexcel.py:[28]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,629-readexcel.py:[28]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,629-readexcel.py:[28]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,629-readexcel.py:[28]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,629-readexcel.py:[28]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,629-readexcel.py:[28]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,629-readexcel.py:[28]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,629-readexcel.py:[28]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,629-readexcel.py:[28]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-05-01 18:17:52,629-readexcel.py:[28]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-05-01 18:17:59,712-driver.py:[14]-[INFO]-fireFoxDriver:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="ccdfff53-07ee-4de4-b3e7-d0d62486e21e")>] succeed !
+2020-05-01 18:18:00,962-base_page.py:[48]-[INFO]-_open open url http://www.baidu.com succeed
+2020-05-01 18:18:00,963-base_page.py:[53]-[INFO]-open url http://www.baidu.com succeed
+2020-05-01 18:18:01,029-base_page.py:[63]-[INFO]-find element succeed
+2020-05-01 18:18:32,002-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects\xiaozutest] succeed! 
+2020-05-01 18:18:32,471-readexcel.py:[19]-[INFO]-reading home_page_elements failed 
+2020-05-01 18:18:32,471-readexcel.py:[28]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,471-readexcel.py:[28]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,471-readexcel.py:[28]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,471-readexcel.py:[28]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,472-readexcel.py:[28]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,472-readexcel.py:[28]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,472-readexcel.py:[28]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,472-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,472-readexcel.py:[28]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,472-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,472-readexcel.py:[28]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,472-readexcel.py:[28]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,472-readexcel.py:[28]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,472-readexcel.py:[28]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,472-readexcel.py:[28]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,472-readexcel.py:[28]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,472-readexcel.py:[28]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,472-readexcel.py:[28]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,472-readexcel.py:[28]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,472-readexcel.py:[28]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,473-readexcel.py:[28]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,473-readexcel.py:[28]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,485-readexcel.py:[19]-[INFO]-reading home_page_elements failed 
+2020-05-01 18:18:32,491-readexcel.py:[19]-[INFO]-reading login_page_elements failed 
+2020-05-01 18:18:32,492-readexcel.py:[28]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,492-readexcel.py:[28]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,492-readexcel.py:[28]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,492-readexcel.py:[28]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,492-readexcel.py:[28]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,492-readexcel.py:[28]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,493-readexcel.py:[28]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,493-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,493-readexcel.py:[28]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,493-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,493-readexcel.py:[28]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,493-readexcel.py:[28]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,493-readexcel.py:[28]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,493-readexcel.py:[28]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,493-readexcel.py:[28]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,493-readexcel.py:[28]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,493-readexcel.py:[28]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,493-readexcel.py:[28]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,493-readexcel.py:[28]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,493-readexcel.py:[28]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,493-readexcel.py:[28]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-05-01 18:18:32,493-readexcel.py:[28]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-05-01 18:18:40,088-driver.py:[14]-[INFO]-fireFoxDriver:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="97c8556e-001b-4532-b82d-b6fc2b37452d")>] succeed !
+2020-05-01 18:19:45,009-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects\xiaozutest] succeed! 
+2020-05-01 18:19:45,465-readexcel.py:[19]-[INFO]-reading home_page_elements failed 
+2020-05-01 18:19:45,466-readexcel.py:[28]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,466-readexcel.py:[28]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,466-readexcel.py:[28]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,466-readexcel.py:[28]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,466-readexcel.py:[28]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,466-readexcel.py:[28]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,466-readexcel.py:[28]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,466-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,466-readexcel.py:[28]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,466-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,466-readexcel.py:[28]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,466-readexcel.py:[28]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,466-readexcel.py:[28]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,466-readexcel.py:[28]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,467-readexcel.py:[28]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,467-readexcel.py:[28]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,467-readexcel.py:[28]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,467-readexcel.py:[28]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,467-readexcel.py:[28]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,467-readexcel.py:[28]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,467-readexcel.py:[28]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,467-readexcel.py:[28]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,478-readexcel.py:[19]-[INFO]-reading home_page_elements failed 
+2020-05-01 18:19:45,485-readexcel.py:[19]-[INFO]-reading login_page_elements failed 
+2020-05-01 18:19:45,486-readexcel.py:[28]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,486-readexcel.py:[28]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,486-readexcel.py:[28]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,486-readexcel.py:[28]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,486-readexcel.py:[28]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,486-readexcel.py:[28]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,486-readexcel.py:[28]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,486-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,487-readexcel.py:[28]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,487-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,487-readexcel.py:[28]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,488-readexcel.py:[28]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,488-readexcel.py:[28]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,488-readexcel.py:[28]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,488-readexcel.py:[28]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,488-readexcel.py:[28]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,488-readexcel.py:[28]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,488-readexcel.py:[28]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,488-readexcel.py:[28]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,488-readexcel.py:[28]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,488-readexcel.py:[28]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-05-01 18:19:45,488-readexcel.py:[28]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,176-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects\xiaozutest] succeed! 
+2020-05-01 18:51:06,693-readexcel.py:[19]-[INFO]-reading home_page_elements failed 
+2020-05-01 18:51:06,693-readexcel.py:[28]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,694-readexcel.py:[28]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,694-readexcel.py:[28]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,694-readexcel.py:[28]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,694-readexcel.py:[28]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,694-readexcel.py:[28]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,694-readexcel.py:[28]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,694-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,694-readexcel.py:[28]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,694-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,694-readexcel.py:[28]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,695-readexcel.py:[28]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,695-readexcel.py:[28]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,695-readexcel.py:[28]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,695-readexcel.py:[28]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,695-readexcel.py:[28]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,695-readexcel.py:[28]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,695-readexcel.py:[28]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,696-readexcel.py:[28]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,696-readexcel.py:[28]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,696-readexcel.py:[28]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,696-readexcel.py:[28]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,708-readexcel.py:[19]-[INFO]-reading home_page_elements failed 
+2020-05-01 18:51:06,715-readexcel.py:[19]-[INFO]-reading login_page_elements failed 
+2020-05-01 18:51:06,716-readexcel.py:[28]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,716-readexcel.py:[28]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,716-readexcel.py:[28]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,716-readexcel.py:[28]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,716-readexcel.py:[28]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,717-readexcel.py:[28]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,717-readexcel.py:[28]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,717-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,717-readexcel.py:[28]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,717-readexcel.py:[28]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,717-readexcel.py:[28]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,717-readexcel.py:[28]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,717-readexcel.py:[28]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,717-readexcel.py:[28]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,717-readexcel.py:[28]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,717-readexcel.py:[28]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,717-readexcel.py:[28]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,717-readexcel.py:[28]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,717-readexcel.py:[28]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,717-readexcel.py:[28]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,718-readexcel.py:[28]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-05-01 18:51:06,718-readexcel.py:[28]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
