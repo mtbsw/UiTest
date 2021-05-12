@@ -1,6 +1,6 @@
 import logging
 import time
-from retail.config import conf
+from xiaozutest.retail.config import conf
 import os
 class Logger(object):
     def __init__(self,loggername,CmdLevel=logging.INFO,FileLevel=logging.INFO):

@@ -1,4 +1,4 @@
-from retail.test_case.models.log import Logger
+from xiaozutest.retail.test_case.models.log import Logger
 
 log =  Logger(__name__)
 def StrHandle(str):

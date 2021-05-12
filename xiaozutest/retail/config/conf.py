@@ -1,6 +1,6 @@
 import os
 import sys
-from retail.test_case.models import doconfini
+from xiaozutest.retail.test_case.models import doconfini
 import time
 currenTime = time.strftime('%Y-%m-%d')
 #获取当前路径 [0]是目录[1]是文件名

@@ -1,4 +1,4 @@
-from retail.test_case.models.log import Logger
+from xiaozutest.retail.test_case.models.log import Logger
 from selenium import webdriver
 import sys
 log = Logger(__name__)

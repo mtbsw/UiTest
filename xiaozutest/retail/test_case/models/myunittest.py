@@ -1,8 +1,8 @@
-from retail.test_case.models.log import Logger
-from retail.config import conf
+from xiaozutest.retail.test_case.models.log import Logger
+from xiaozutest.retail.config import conf
 import unittest
-from retail.test_case.models.driver import WebDriver
-from retail.test_case.page_obj.login_page import LoginPage
+from xiaozutest.retail.test_case.models.driver import WebDriver
+from xiaozutest.retail.test_case.page_obj.login_page import LoginPage
 log = Logger(__name__)
 import time
 

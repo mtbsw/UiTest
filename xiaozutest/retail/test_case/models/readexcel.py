@@ -1,6 +1,6 @@
-from retail.config.conf import *
+from xiaozutest.retail.config.conf import *
 import xlrd
-from retail.test_case.models.log import Logger
+from xiaozutest.retail.test_case.models.log import Logger
 log=Logger(__name__)
 class ReadExcel(object):
     def __init__(self,fileName='elementData.xlsx',sheetName='home_page_elements'):

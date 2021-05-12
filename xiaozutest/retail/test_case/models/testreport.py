@@ -1,9 +1,9 @@
-from retail.test_case.models.log import Logger
-from retail.config import conf
+from xiaozutest.retail.test_case.models.log import Logger
+from xiaozutest.retail.config import conf
 import time
 import os
 import HTMLTestRunner
-import  unittest
+import unittest
 import BeautifulReport
 import HTMLTestReportCN
 
